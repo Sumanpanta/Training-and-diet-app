@@ -3,6 +3,7 @@ import 'package:training_and_diet/ui/pages/profile_screen.dart';
 
 void main() => runApp(MyApp());
 
+// hello there
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -16,4 +17,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
